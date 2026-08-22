@@ -1,11 +1,11 @@
 {
-    "lastUpdate": "2026-08-16T00:39:35.195Z",
+    "lastUpdate": "2026-08-22T22:32:05.541Z",
     "apps": [
         {
             "name": "AutoKuma",
             "githubRepo": "https://github.com/BigBoot/AutoKuma",
             "description": "Automates the creation of Monitors based on Docker container labels. Additionally provides a CLI for Uptime Kuma.",
-            "githubStars": 873,
+            "githubStars": 877,
             "lastUpdate": "2026-06-18"
         },
         {
@@ -26,7 +26,7 @@
             "githubRepo": "https://github.com/Alice39s/kuma-mieru",
             "description": "A 3rd-party Uptime Kuma monitoring dashboard built on Next.js, TypeScript and Recharts.",
             "githubStars": 801,
-            "lastUpdate": "2026-08-13"
+            "lastUpdate": "2026-08-20"
         },
         {
             "name": "Kuma Zabbix Bridge",
@@ -74,7 +74,7 @@
             "githubRepo": "https://github.com/toadstule/kumacub",
             "description": "Schedule and run local (Nagios-compatible) checks; push results to Uptime Kuma.",
             "githubStars": 2,
-            "lastUpdate": "2026-08-14"
+            "lastUpdate": "2026-08-18"
         },
         {
             "name": "KumaUptime (macOS)",
@@ -128,7 +128,7 @@
             "name": "Uptime Kuma Push Agent",
             "githubRepo": "https://github.com/manprinsen/uptime-kuma-agent",
             "description": "A lightweight monitoring agent with Go, Python, and shell implementations, designed to send network uptime data to Uptime Kuma's Push Monitor.",
-            "githubStars": 21,
+            "githubStars": 20,
             "lastUpdate": "2025-12-08"
         },
         {
@@ -163,7 +163,7 @@
             "name": "uptimekuma-migrator",
             "githubRepo": "https://github.com/Peppershade/uptimekuma-migrator",
             "description": "Simple migrator from UptimeRobot to UptimeKuma",
-            "githubStars": 13,
+            "githubStars": 12,
             "lastUpdate": "2023-05-24"
         },
         {
