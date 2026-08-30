@@ -1,11 +1,11 @@
 {
-    "lastUpdate": "2026-08-23T00:40:03.995Z",
+    "lastUpdate": "2026-08-30T02:20:00.039Z",
     "apps": [
         {
             "name": "AutoKuma",
             "githubRepo": "https://github.com/BigBoot/AutoKuma",
             "description": "Automates the creation of Monitors based on Docker container labels. Additionally provides a CLI for Uptime Kuma.",
-            "githubStars": 877,
+            "githubStars": 882,
             "lastUpdate": "2026-06-18"
         },
         {
@@ -25,8 +25,8 @@
             "name": "Kuma Mieru",
             "githubRepo": "https://github.com/Alice39s/kuma-mieru",
             "description": "A 3rd-party Uptime Kuma monitoring dashboard built on Next.js, TypeScript and Recharts.",
-            "githubStars": 801,
-            "lastUpdate": "2026-08-20"
+            "githubStars": 805,
+            "lastUpdate": "2026-08-27"
         },
         {
             "name": "Kuma Zabbix Bridge",
@@ -66,7 +66,7 @@
             "name": "KumaCompanion",
             "githubRepo": "https://github.com/Zerka30/KumaCompanion",
             "description": "A Command Line Interface (CLI) for Uptime Kuma",
-            "githubStars": 44,
+            "githubStars": 45,
             "lastUpdate": "2026-08-10"
         },
         {
@@ -80,7 +80,7 @@
             "name": "KumaUptime (macOS)",
             "githubRepo": "https://github.com/CallumJRobertson/Kuma-Uptime-Manager-MacOS",
             "description": "A native macOS menu bar app for monitoring Uptime Kuma servers. Supports private API mode, public status pages, notifications, and in-app monitor creation.",
-            "githubStars": 6,
+            "githubStars": 7,
             "lastUpdate": "2026-03-21"
         },
         {
@@ -170,8 +170,8 @@
             "name": "UptimeKumaRemoteProbe",
             "githubRepo": "https://github.com/zimbres/UptimeKumaRemoteProbe",
             "description": "A Remote Probe to work with Uptime Kuma \"Push\" monitor type.",
-            "githubStars": 3,
-            "lastUpdate": "2026-08-02"
+            "githubStars": 4,
+            "lastUpdate": "2026-08-27"
         },
         {
             "name": "Wuma - Uptime Kuma iOs Manager",
